@@ -47,9 +47,11 @@ linkedin_username: ganesh-raman-1a0b53229
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, am Ganesh. Currently, serve Senior Manager, Data Platforms, at HBK - Hottinger Brüel & Kjær.Working across people and technologies, have fun leading and manaing teams while helping build great analytics products in a niche domain. 
+  Hi, am Ganesh
+  Currently Senior Manager, Data Platforms, at HBK - Hottinger Brüel & Kjær.
+  Working across people and technologies, lead and manage fun-teams while helping build great data-analytics products.
 
-  Having grown as a Principal Engineer, have lot of depth, building data-platforms, cloud-PaaS-Platforms powering SaaS products across industries.This depth of knowledge helps build lasting relationships across a spectrum of people and technologies, empowering  
+  Having grown as a Principal Engineer, have lot of depth, building data-platforms, cloud-PaaS-Platforms powering SaaS products across industries.Depth of knowledge helps build lasting relationships across a spectrum of people and technologies.  
 
 content:
   - title: Experience # Title for the section
@@ -64,7 +66,10 @@ content:
         quote: >
           Enabling data platform teams towards building great analytics products
         description: | # this will include new lines to allow paragraphs
-            Serving as the "Head of Data Platforms" in HBK, enable data-platform teams build great products across value-streams and the organisation. Role involved both people-management and leadership towards delivering great products.Enabling healthy teams, ensuring psycological safety across levels within teams as well with cross-organisational interactions.
+            Serving as the "Head of Data Platforms" in HBK, enable data-platform teams build great products across value-streams and the organisation.
+            Role involved both people-management and leadership towards delivering great products.
+            Enabling healthy teams, ensuring psycological safety across levels within teams as well with cross-organisational interactions.
+            Fully Remote.
       - layout: left
         title: Principal Engineer at VIMANA
         link: govimana.com
@@ -74,7 +79,10 @@ content:
         quote: >
           Enabling VIMANA's SaaS and PaaS products towards Smart Manufacturing
         description: | # this will include new lines to allow paragraphs
-            Served as a "Principal Engineer" in VIMANA, across teams, leading product capabilities, across both SaaS and PaaS lines. Role involved solving complex technical problems, across data engineering, IoT, cloud, PaaS, SaaS and working within Smart-Manufacturing as a domain. Role also involve small degree of people managment towards building high-performance teams.
+            Served as a "Principal Engineer" in VIMANA, across teams, leading product capabilities, across both SaaS and PaaS product-lines. 
+            Role involved solving complex technical problems, across data engineering, IoT, cloud, PaaS, SaaS and working within Smart-Manufacturing as a domain.
+            Role also involve small degree of people managment towards building high-performance teams.
+            Hybrid settings involving both remote and some in-office
       - layout: left
         title: Senior Data Engineer at The Data Team
         link: thedatateam.com
@@ -84,7 +92,10 @@ content:
         quote: >
           Solving complex data challenges across enterprises, small and big, building Data Platforms and Products 
         description: | # this will include new lines to allow paragraphs
-            Served as a "Senior Data Engineer" in The Data Team.Was amongst the earliest of employees, joing while 'The Data Team' was a Data Strategy Consulting startup, working with large and small enterprises.Was pivotal in hiring, building teams, from ground-up, while also serving customer needs for Data Products.Helped build peta-byte-scale data-lake, for a global Banking customer, from Architechture to Execution, while collaborating across the length and bredth of the Enterprise 
+             As a "Senior Data Engineer" in The Data Team, was amongst the earliest of employees, joing while 'The Data Team' was a Data Strategy Consulting startup.
+             Was pivotal in building teams, from ground-up, while also serving customer needs for Data Products.
+             Helped build peta-byte-scale data-lake, for a global Banking customer, from Architechture to Execution, while collaborating across the length and breath of the enterprise.
+             Hybrid settings involving both remote and some in-office 
       - layout: left
         title: Developer at Zafin
         link: zafin.com
@@ -94,7 +105,10 @@ content:
         quote: >
           Building Pricing and Billing products for Banks
         description: | # this will include new lines to allow paragraphs
-            Worked with Core R&D team, solving complex technology challenges in building customer facing as well as back-end products, in the domain of "Pricing & Billing" for Banks. Experienced a range of polyglot technologies, right from building DSL platforms, to JVM Performance engineering for high-throughput processing with RDBMs, to building web front-end applications and RCP applications with GWT and Eclipse's RCP technolgies. Worked under great mentors and leaders, in both remote as well office settings.
+            Worked with Core R&D team, solving complex technology challenges in building customer facing as well as back-end products.
+            Experienced a range of polyglot technologies, right from building DSL platforms, to JVM Performance engineering for high-throughput processing with RDBMs, to building web front-end applications and RCP applications with GWT and Eclipse's RCP technolgies. 
+            Worked under great mentors and leaders, in both remote as well office settings.
+            Hybrid settings involving both remote and some in-office
       - layout: left
         title: Graduate Engineering Trainee at Standard Chartered Bank GBS
         link: www.sc.com/in/about-us/
@@ -105,6 +119,7 @@ content:
           Developer within eBBS Core Banking Team
         description: | # this will include new lines to allow paragraphs
             Worked with Core Banking eBBS team, as part of multiple initiatives and was the recipient of multiple awards, including "Tech Wizard Sustainability Champion of 2011".
+            Fully In-Office.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
