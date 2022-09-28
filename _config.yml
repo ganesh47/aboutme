@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ganesh Raman
-title: Senior Manager, Data Platforms
+title: Head of Data Platforms
 email: raman.ganesh@outlook.com
 
 # Dark Mode (true/false/never)
@@ -58,7 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Senior Manager, Data Platforms
+        title: Head of Data Platforms
         link: www.hbkworld.com/en
         link_text: Hottinger Brüel & Kjær
         sub_title: Hottinger Brüel & Kjær
