@@ -11,7 +11,7 @@ title: Senior Manager, Data Platforms
 email: raman.ganesh@outlook.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -58,10 +58,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Senior Manager, Data Platforms at HBK - Hottinger Brüel & Kjær
+        title: Senior Manager, Data Platforms
         link: www.hbkworld.com/en
         link_text: Hottinger Brüel & Kjær
-        sub_title: Senior Manager, Data Platforms
+        sub_title: Hottinger Brüel & Kjær
         caption: September 2021 - Present (Through VIMANA acquisition)
         quote: >
           Enabling data platform teams towards building great analytics products
@@ -73,10 +73,10 @@ content:
             
             Fully Remote.
       - layout: left
-        title: Principal Engineer at VIMANA
+        title: Principal Engineer
         link: govimana.com
         link_text: VIMANA
-        sub_title: Principal Engineer
+        sub_title: VIMANA
         caption: December 2017 - September 2021 (Got acquired into HBK - Hottinger Brüel & Kjær)
         quote: >
           Enabling VIMANA's SaaS and PaaS products towards Smart Manufacturing
@@ -88,10 +88,10 @@ content:
             
             Hybrid settings involving both remote and some in-office
       - layout: left
-        title: Senior Data Engineer at The Data Team
+        title: Senior Data Engineer
         link: thedatateam.com
         link_text: The Data Team
-        sub_title: Senior Data Engineer
+        sub_title: The Data Team
         caption: October 2015 - December 2017
         quote: >
           Solving complex data challenges across enterprises, small and big, building Data Platforms and Products 
@@ -103,10 +103,10 @@ content:
              
              Hybrid settings involving both remote and some in-office 
       - layout: left
-        title: Developer at Zafin
+        title: Developer, R&D
         link: zafin.com
         link_text: Zafin
-        sub_title: Developer, R&D
+        sub_title: Zafin
         caption: May 2012 - October 2015
         quote: >
           Building Pricing and Billing products for Banks
@@ -119,10 +119,10 @@ content:
             
             Hybrid settings involving both remote and some in-office
       - layout: left
-        title: Graduate Engineering Trainee at Standard Chartered Bank GBS
+        title: Graduate Engineering Trainee, eBBS-Core Banking
         link: www.sc.com/in/about-us/
         link_text: Standard Chartered Bank GBS
-        sub_title: Graduate Engineering Trainee, eBBS-Core Banking
+        sub_title: Standard Chartered Bank GBS
         caption: Feb 2011 - May 2012
         quote: >
           Developer within eBBS Core Banking Team
