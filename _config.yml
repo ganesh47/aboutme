@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ganesh Raman
-title: Head of Data Platforms
+title: Senior Manager, Data Platforms
 email: raman.ganesh@outlook.com
 
 # Dark Mode (true/false/never)
@@ -58,7 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Head of Data Platforms
+        title: Senior Manager, Data Platforms
         link: www.hbkworld.com/en
         link_text: Hottinger Brüel & Kjær
         sub_title: Hottinger Brüel & Kjær
@@ -66,7 +66,7 @@ content:
         quote: >
           Enabling data platform teams towards building great analytics products
         description: | # this will include new lines to allow paragraphs
-            Serving as the "Head of Data Platforms" in HBK, enable data-platform teams build great products across value-streams and the organisation.
+            Serving as the "Senior Manager, Data Platforms" in HBK, enable data-platform teams build great products across value-streams and the organisation.
 
             Role involved both people-management and leadership towards delivering great products.
             Enabling healthy teams, ensuring psycological safety across levels within teams as well with cross-organisational interactions.
