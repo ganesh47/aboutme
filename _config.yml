@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ganesh Raman
-title: Senior Manager, Data Platforms
+title: Head of Software Platforms, HBK
 email: raman.ganesh@outlook.com
 
 # Dark Mode (true/false/never)
@@ -16,49 +16,25 @@ darkmode: true
 # Social links
 #twitter_username: facespics
 github_username:  ganesh47
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: jameswgrant
 linkedin_username: ganesh-raman-1a0b53229
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, am Ganesh, presently working as Senior Manager, Data Platforms, at HBK - Hottinger Brüel & Kjær.
+  Hi, am Ganesh, presently Heading Software Platforms, at HBK - Hottinger Brüel & Kjær.
   
-  Love working with people and technology, leading and managing a fun experience for teams, while helping build great data-analytics products.
-
-  Having grown as a Principal Engineer, have lot of depth, building data-platforms, cloud-PaaS-Platforms powering SaaS products across industries.Depth of knowledge helps build lasting relationships across a spectrum of people and technologies.  
+  Love building, transforming products, building, learning, growing, scaling fun teams.
+  Being hands-on with technology lets me create great product experiences building fun and sustainable ecosystems around people and products
+  Having grown as a Principal Engineer, depth of  building platforms, products, teams, been infuenced with lasting relationships across a spectrum of people and technologies.  
 
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Senior Manager, Data Platforms
+        title: Head of Software Platforms
         link: www.hbkworld.com/en
         link_text: Hottinger Brüel & Kjær
         sub_title: Hottinger Brüel & Kjær
@@ -66,11 +42,10 @@ content:
         quote: >
           Enabling data platform teams towards building great analytics products
         description: | # this will include new lines to allow paragraphs
-            Serving as the "Senior Manager, Data Platforms" in HBK, enable data-platform teams build great products across value-streams and the organisation.
-
-            Role involved both people-management and leadership towards delivering great products.
-            Enabling healthy teams, ensuring psycological safety across levels within teams as well with cross-organisational interactions.
-            
+            Heading Software Platforms at HBK, as a Digital-leader, influencing products, portfolios and business within HBK.
+            Also head the-platform-team, learning, growing, building, scaling and sustaining healthy, high-performance teams in a fully-distributed, remote settings.
+            Drive and execute Digital software stragegy as part of the Digital leadership within HBK.
+            Drive tehnology leadership as part of tech-leadership-groups within HBK.
             Fully Remote.
       - layout: left
         title: Principal Engineer
@@ -81,11 +56,9 @@ content:
         quote: >
           Enabling VIMANA's SaaS and PaaS products towards Smart Manufacturing
         description: | # this will include new lines to allow paragraphs
-            Served as a "Principal Engineer" in VIMANA, across teams, leading product capabilities, across both SaaS and PaaS product-lines. 
-            
+            Served as a "Principal Engineer" in VIMANA, across teams, leading product capabilities, across both SaaS and PaaS product-lines.  
             Role involved solving complex technical problems, across data engineering, IoT, cloud, PaaS, SaaS and working within Smart-Manufacturing as a domain.
             Role also involve small degree of people managment towards building high-performance teams.
-            
             Hybrid settings involving both remote and some in-office
       - layout: left
         title: Senior Data Engineer
