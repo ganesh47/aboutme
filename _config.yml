@@ -25,9 +25,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, am Ganesh, presently Heading Software Platforms, at HBK - Hottinger Brüel & Kjær.
   
-  Love building, transforming products, building, learning, growing, scaling fun teams.
-  Being hands-on with technology lets me create great product experiences building fun and sustainable ecosystems around people and products
-  Having grown as a Principal Engineer, depth of  building platforms, products, teams, been infuenced with lasting relationships across a spectrum of people and technologies.  
+  Love building, transforming products, learning, growing, scaling fun teams.
+  Hands-on with technology, helps me create great product experiences building fun and sustainable ecosystems around people and products
+  Having grown as a Principal Engineer, depth of  building platforms, products, teams, has been influential in building lasting relationships across a spectrum of people and technologies.  
 
 content:
   - title: Experience # Title for the section
@@ -52,7 +52,7 @@ content:
         link: govimana.com
         link_text: VIMANA
         sub_title: VIMANA
-        caption: December 2017 - September 2021 (Got acquired into HBK - Hottinger Brüel & Kjær)
+        caption: December 2017 - September 2021 (Got acqui-hired into HBK - Hottinger Brüel & Kjær)
         quote: >
           Enabling VIMANA's SaaS and PaaS products towards Smart Manufacturing
         description: | # this will include new lines to allow paragraphs
