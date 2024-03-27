@@ -23,13 +23,14 @@ linkedin_username: ganesh-raman-1a0b53229
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Head Software Platforms, at - Hottinger Brüel & Kjær. (HBK)
-  Head vision, strategy and execution, part of the Digital leadership, influencing software products through and with a focused Platform team.
+  Head of Digital Business Models Development & In Process, at - Hottinger Brüel & Kjær. (HBK)
+  
+  Driving growth through Digital business, influencing strategy through execution. 
+  Driving both organic through sales & inorganic growth through M&As.
   Hands-on with technology, helps me create great product experiences building fun and sustainable ecosystems around people and products
-  Rich experience of hands-on engineering, architecture, consulting, solution-selling, product management, leading multiple product teams enables an overall great experience.
-  Great at solving problems, technical, people or social, with a strong bias for action, and a strong sense of ownership.
-  Also lead integration of acquired teams, right from culture to HR to technology and customer-value with a strong focus on people and product.
-  Love to learn, grow, build, scale and sustain great teams, products and ecosystems.
+  Rich experience of hands-on engineering, architecture, solution-selling, product management, leading multiple teams focusing on customer experience.
+  Great at building incremental strategy focused on execution making it sustainable
+  Love to learn, grow, build, scale and sustain great teams, products, customers and ecosystems.
 
 content:
   - title: Experience # Title for the section
@@ -42,15 +43,22 @@ content:
         sub_title: Hottinger Brüel & Kjær
         caption: September 2021 - Present (Through VIMANA acquisition)
         quote: >
-          Enabling data platform teams towards building great analytics products
+          Driving Digital Growth for Business units
         description: | # this will include new lines to allow paragraphs
           Driving Digital (Software) growth for key business unit through Digital products, solutions, partners and sales channels.
+          
           Driving inorganic growth as a Digital Business Partner for In-Process through M&As.
+          
           Curating Digital offerings around existing, new products through Cloud, AI integrating legacy, new products.
+          
           Developing new Digital Business Models working with complex markets across segments.
+          
           Curating Digital ecosystem driving solution selling for hardware products.
+          
           Enabling PLM strategy for existing, new hardware sensors.
+          
           Driving Strategic alignment for Digital India team & platform.
+          
           Growing, enabling, sustaining high-performance cross-functional teams (from 17 to 25 in 16 months) across geographies with growth, alignment & more.
           Fully Remote.
       - layout: left
@@ -62,9 +70,12 @@ content:
         quote: >
           Enabling VIMANA's SaaS and PaaS products towards Smart Manufacturing
         description: | # this will include new lines to allow paragraphs
-            Served as a "Principal Engineer" in VIMANA, across teams, leading product capabilities, across both SaaS and PaaS product-lines.  
+            Served as a "Principal Engineer" in VIMANA, across teams, leading product capabilities, across both SaaS and PaaS product-lines.
+          
             Role involved solving complex technical problems, across data engineering, IoT, cloud, PaaS, SaaS and working within Smart-Manufacturing as a domain.
+          
             Role also involved people management towards building high-performance teams.
+          
             Hybrid settings involving both remote and some in-office
       - layout: left
         title: Senior Data Engineer
