@@ -42,21 +42,29 @@ content:
         description: | # this will include new lines to allow paragraphs
           • Reporting directly to the Chief Digital Officer, leading cross-functional teams driving digital
           strategy, product innovation, and GTM execution across industrial markets.
+          
           • Enabled €2M+ in revenue growth by launching 10 digital offerings across 3 product lines and
           expanding into new markets for In Process business.
+          
           • Spearheaded the design and execution of enterprise architecture bundling hardware,
           software, and AI/ML-driven services—accelerating M&A integration and reducing time-to-
           market to <6 months.
+          
           • Established Agile execution models using OKRs and engineering metrics (velocity, defect
           rate, cycle time) to scale teams from 15 to 25 FTEs and support new business lines.
+          
           • Developed SaaS/PaaS pricing strategies and FinOps-aligned cloud infrastructure models,
           enabling scalable monetization of AI and data services.
+          
           • Embedded DevSecOps and SDLC practices, introducing governance and cybersecurity
           frameworks for AI-driven platforms.
+          
           • Led strategic stakeholder management with product, commercial, and compliance teams to
           align digital roadmaps with evolving business outcomes.
+          
           • Demonstrated expertise in organization design—shaping team structures for new business
           units and leading post-M&A integration to scale product and engineering functions effectively.
+          
           • Translated complex research into commercial success: launched a Structural Health
           Monitoring (SHM) solution combining physics, AI, and cloud-native services for predictive
           maintenance in public infrastructure.
@@ -70,8 +78,11 @@ content:
           Enabling VIMANA's SaaS and PaaS products towards Smart Manufacturing
         description: | # this will include new lines to allow paragraphs
             Served as a "Principal Engineer" in VIMANA, across teams, leading product capabilities, across both SaaS and PaaS product-lines.
+            
             Role involved solving complex technical problems, across data engineering, IoT, cloud, PaaS, SaaS and working within Smart-Manufacturing as a domain.
+            
             Role also involved people management towards building high-performance teams.
+            
             Hybrid settings involving both remote and some in-office
       - layout: left
         title: Senior Data Engineer
@@ -83,9 +94,12 @@ content:
           Solving complex data challenges across enterprises, small and big, building Data Platforms and Products 
         description: | # this will include new lines to allow paragraphs
              As a "Senior Data Engineer" in The Data Team, was amongst the earliest of employees, joing while 'The Data Team' was a Data Strategy Consulting startup.             
+             
              Was pivotal in building teams, from ground-up, while also serving customer needs for Data Products.
+             
              Helped build peta-byte-scale data-lake, for a global Banking customer, from Architechture to Execution, while collaborating across the length and breath of the enterprise.
-             Hybrid settings involving both remote and some in-office 
+             
+             Hybrid settings involving both remote and some in-office
       - layout: left
         title: Developer, R&D
         link: zafin.com
@@ -96,8 +110,11 @@ content:
           Building Pricing and Billing products for Banks
         description: | # this will include new lines to allow paragraphs
             Worked with Core R&D team, solving complex technology challenges in building customer facing as well as back-end products.            
+            
             Experienced a range of polyglot technologies, right from building DSL platforms, to JVM Performance engineering for high-throughput processing with RDBMs, to building web front-end applications and RCP applications with GWT and Eclipse's RCP technolgies.             
+            
             Worked under great mentors and leaders, in both remote as well office settings.            
+            
             Hybrid settings involving both remote and some in-office
       - layout: left
         title: Graduate Engineering Trainee, eBBS-Core Banking
