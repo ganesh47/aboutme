@@ -12,7 +12,10 @@ darkmode: true
 
 github_username:  ganesh47
 linkedin_username: ganesh-raman-1a0b53229
-
+additional_links:
+  - title: Blog
+    icon: fas fa-pencil-alt
+    url: https://ganesh47.github.io
 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
