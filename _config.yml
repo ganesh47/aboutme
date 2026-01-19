@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 version: 2
 
 name: Ganesh Raman
-title: Head of Digital Business Models Development & In Process, HBK
+title: Engineering & Product Leader - Asset Intelligence & Industrial AI
 email: ganesh.raman@rocketmail.com
 
 darkmode: true
@@ -13,135 +13,128 @@ darkmode: true
 github_username:  ganesh47
 linkedin_username: ganesh-raman-1a0b53229
 additional_links:
-  - title: Blog
-    icon: fas fa-pencil-alt
-    url: https://ganesh47.github.io
+  - title: Website
+    icon: fas fa-globe
+    url: https://ganesh47.github.io/aboutme/
+  - title: Resume (PDF)
+    icon: fas fa-file-pdf
+    url: resume.pdf
 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Innovative and results-driven engineering leader with over a decade of experience delivering scalable, secure,
-  and impactful digital products across Cloud, AI/ML, Data Platforms, HPC, SaaS, and Cybersecurity domains.
-  Skilled in leading cross-functional teams to build future-ready platforms and drive strategic growth across global
-  markets.
-  Blends deep technical expertise with commercial strategy—aligning engineering execution with evolving
-  business outcomes. Proven leadership in stakeholder management, enterprise architecture, and FinOps, with
-  hands-on experience in SAFe Agile practices, portfolio mapping, and value-chain mapping. Adept at scaling
-  engineering organizations, driving Agile execution with OKRs, optimizing engineering metrics, and embedding
-  security and compliance within structured SDLCs. Passionate about digital business innovation and building
-  sustainable product ecosystems that drive measurable customer and market value
+  Engineering & Product Leader with 12+ years of experience building and scaling data- and cloud-driven
+  products in enterprise environments. Proven track record of taking complex, domain-heavy technology from
+  early concept to production, customer adoption, and scalable go-to-market.
+  Experienced in bootstrapping and scaling AI- and data-centric platforms, shaping SaaS and platform business
+  models, and leading cross-functional teams across engineering, product, and commercial functions. Known for
+  combining deep technical judgment with clear product thinking, execution discipline, and business outcomes.
 
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Head of Digital Business Models Development & In Process
+        title: Engineering & Product Leader - Asset Intelligence & Industrial AI
         link: www.hbkworld.com/en
         link_text: Hottinger Brüel & Kjær
         sub_title: Hottinger Brüel & Kjær
-        caption: September 2021 - Present (Through VIMANA acquisition)
+        caption: Sept 2021 - Present
         quote: >
-          Driving Digital Growth for Business units
+          Current focus: Portfolio & Product Ownership
         description: | # this will include new lines to allow paragraphs
-          • Working with Digital, enabling cross-functional teams driving digital
-          strategy, product innovation, and GTM execution across industrial markets.
+          • Bootstrapped and scaled a new Asset Intelligence and Industrial AI portfolio, taking products from early
+          concept through production, customer deployment, and go-to-market.
           
-          • Enabling €2M+ in revenue growth launching mulitple digital offerings across product lines and
-          expanding into new markets for In Process business.
+          • Led the creation and launch of Monitor360, establishing core platforms, product foundations, and delivery
+          models designed for long-term scale.
           
-          • Spearheading design and execution of enterprise architecture bundling hardware,
-          software, and AI/ML-driven services—accelerating M&A integration and reducing time-to-
-          market to <6 months.
+          • Owned strategy, architecture, and execution end to end, spanning hands-on development, systems and
+          platform design, and customer-facing outcomes.
           
-          • Established Agile execution models using OKRs and engineering metrics (velocity, defect
-          rate, cycle time) enabling scaled team-models supporting new business lines.
+          • Drove the transition from project-led delivery to product-led growth by building reusable platforms and
+          repeatable product capabilities.
           
-          • Enabling SaaS/PaaS pricing strategies and FinOps-aligned cloud infrastructure models,
-          enabling scalable monetization of AI and data services.
+          • Partnered with sales and marketing to shape GTM strategy, support early adoption, and expand HBK's in-process
+          software position.
           
-          • Embedded DevSecOps and SDLC practices, introducing governance and cybersecurity
-          frameworks for AI-driven platforms.
+          • Acted as the de facto technology owner for Asset Intelligence initiatives, balancing near-term delivery
+          with long-term platform evolution.
           
-          • Leading strategic stakeholder management with product, commercial, and compliance teams to
-          align digital roadmaps with evolving business outcomes.
+          • Earlier (foundation roles): built and led software platform teams that established cloud-native foundations
+          for multiple in-process digital products.
           
-          • Demonstrated expertise in organization design—shaping team structures for new business
-          units and leading post-M&A integration to scale product and engineering functions effectively.
+          • Defined digital business models, pricing approaches, and monetization frameworks that enabled scalable,
+          SaaS-oriented offerings.
           
-          • Translated complex research into commercial success: launched a Structural Health
-          Monitoring (SHM) solution combining physics, AI, and cloud-native services for predictive
-          maintenance in public infrastructure.
+          • Scaled engineering teams and delivery practices, introducing execution discipline, architectural
+          standards, and cross-team alignment.
       - layout: left
         title: Principal Engineer
         link: govimana.com
         link_text: VIMANA
         sub_title: VIMANA
-        caption: December 2017 - September 2021 (Got acqui-hired into HBK - Hottinger Brüel & Kjær)
-        quote: >
-          Enabling VIMANA's SaaS and PaaS products towards Smart Manufacturing
+        caption: Dec 2017 - Sept 2021
         description: | # this will include new lines to allow paragraphs
-            Served as a "Principal Engineer" in VIMANA, across teams, leading product capabilities, across both SaaS and PaaS product-lines.
-            
-            Role involved solving complex technical problems, across data engineering, IoT, cloud, PaaS, SaaS and working within Smart-Manufacturing as a domain.
-            
-            Role also involved people management towards building high-performance teams.
-            
-            Hybrid settings involving both remote and some in-office
+          • Served as senior technical leader across SaaS and PaaS product lines, owning architecture and execution
+          for cloud-native platforms.
+          
+          • Led Kubernetes migration and platform modernization efforts, improving scalability and operational
+          reliability.
+          
+          • Designed and delivered large-scale IoT and data streaming solutions for industrial and automotive
+          customers.
+          
+          • Combined hands-on technical leadership with team mentoring and cross-functional collaboration.
       - layout: left
         title: Senior Data Engineer
         link: thedatateam.com
         link_text: The Data Team
         sub_title: The Data Team
-        caption: October 2015 - December 2017
-        quote: >
-          Solving complex data challenges across enterprises, small and big, building Data Platforms and Products 
+        caption: Oct 2015 - Dec 2017
         description: | # this will include new lines to allow paragraphs
-             As a "Senior Data Engineer" in The Data Team, was amongst the earliest of employees, joing while 'The Data Team' was a Data Strategy Consulting startup.             
-             
-             Was pivotal in building teams, from ground-up, while also serving customer needs for Data Products.
-             
-             Helped build peta-byte-scale data-lake, for a global Banking customer, from Architechture to Execution, while collaborating across the length and breath of the enterprise.
-             
-             Hybrid settings involving both remote and some in-office
+          • Early team member in a data consulting startup; led design and delivery of petabyte-scale data platforms
+          for global banking clients.
       - layout: left
-        title: Developer, R&D
+        title: Developer
         link: zafin.com
         link_text: Zafin
         sub_title: Zafin
-        caption: May 2012 - October 2015
-        quote: >
-          Building Pricing and Billing products for Banks
+        caption: May 2012 - Oct 2015
         description: | # this will include new lines to allow paragraphs
-            Worked with Core R&D team, solving complex technology challenges in building customer facing as well as back-end products.            
-            
-            Experienced a range of polyglot technologies, right from building DSL platforms, to JVM Performance engineering for high-throughput processing with RDBMs, to building web front-end applications and RCP applications with GWT and Eclipse's RCP technolgies.             
-            
-            Worked under great mentors and leaders, in both remote as well office settings.            
-            
-            Hybrid settings involving both remote and some in-office
+          • Core R&D engineer working on high-performance, transaction-heavy enterprise systems.
       - layout: left
-        title: Graduate Engineering Trainee, eBBS-Core Banking
+        title: Graduate Engineering Trainee (GET)
         link: www.sc.com/in/about-us/
         link_text: Standard Chartered Bank GBS
         sub_title: Standard Chartered Bank GBS
         caption: Feb 2011 - May 2012
-        quote: >
-          Developer within eBBS Core Banking Team
         description: | # this will include new lines to allow paragraphs
-            Worked with Core Banking eBBS team, as part of multiple initiatives and was the recipient of multiple awards, including "Tech Wizard Sustainability Champion of 2011".            
-            Fully In-Office.
+          • Developer on globally deployed core banking systems; recipient of multiple internal awards for execution
+          and automation.
 
-  - title: Education # Title for the section
+  - title: Technology & Tools # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: NIT Kurukshetra
-        caption: 2006 - 2010
-        sub_title: B.Tech in Information Technology
-        quote: >
-          Established in 1963, as Regional Engineering College, Kurukshetra is known for Engineering as well as global alumuni.
+        title: Cloud & Platforms
         description: | # this will include new lines to allow paragraphs
-          Majored in IT while specialising in Distributed Systems, while working on a paper around "Byzantine Fault Tolerance"
+          Kubernetes, Docker, CI/CD, AWS, Azure, GCP, Cloudflare, and more.
+      - layout: left
+        title: Data & Streaming
+        description: | # this will include new lines to allow paragraphs
+          Kafka, NATS, Spark, Delta Lake, time-series DBs, and more.
+      - layout: left
+        title: AI & ML
+        description: | # this will include new lines to allow paragraphs
+          MLOps, Python, ML frameworks, model deployment pipelines, and more.
+      - layout: left
+        title: Architectures
+        description: | # this will include new lines to allow paragraphs
+          Microservices, event-driven systems, cloud-native patterns, and more.
+      - layout: left
+        title: Web
+        description: | # this will include new lines to allow paragraphs
+          Reactjs, NextJS, Cloudflare Workers, CDNs, WAFs, and more.
           
 
 footer_show_references: true

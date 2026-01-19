@@ -1,0 +1,5 @@
+{% assign href = include.href | strip %}
+{% assign has_scheme = href contains '://' %}
+{% assign mailto_scheme = href | slice: 0, 7 %}
+{% assign tel_scheme = href | slice: 0, 4 %}
+<a href="{% if has_scheme or mailto_scheme == 'mailto:' or tel_scheme == 'tel:' %}{{ href }}{% else %}{{ href | relative_url }}{% endif %}" target="_blank" class="{{ include.class }}">
