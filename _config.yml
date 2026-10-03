@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 version: 2
 
 name: Ganesh Raman
-title: Engineering & Product Leader - Asset Intelligence & Industrial AI
+title: VP Engineering & Tech at Vivriti Next
 email: ganesh.raman@rocketmail.com
 
 darkmode: true
@@ -22,6 +22,8 @@ additional_links:
 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  VP Engineering & Tech at Vivriti Next since May 2026.
+
   Engineering & Product Leader with 12+ years of experience building and scaling data- and cloud-driven
   products in enterprise environments. Proven track record of taking complex, domain-heavy technology from
   early concept to production, customer adoption, and scalable go-to-market.
@@ -34,13 +36,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: VP Engineering & Tech
+        sub_title: Vivriti Next
+        caption: May 2026 – present
+        quote: >
+          Current role
+      - layout: left
         title: Engineering & Product Leader - Asset Intelligence & Industrial AI
         link: www.hbkworld.com/en
         link_text: Hottinger Brüel & Kjær
         sub_title: Hottinger Brüel & Kjær
-        caption: Sept 2021 - Present
+        caption: Sept 2021
         quote: >
-          Current focus: Portfolio & Product Ownership
+          Portfolio & Product Ownership
         description: | # this will include new lines to allow paragraphs
           • Bootstrapped and scaled a new Asset Intelligence and Industrial AI portfolio, taking products from early
           concept through production, customer deployment, and go-to-market.
